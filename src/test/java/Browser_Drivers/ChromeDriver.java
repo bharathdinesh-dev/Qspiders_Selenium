@@ -1,4 +1,4 @@
-package Learning_Locators;
+package Browser_Drivers;
 public class ChromeDriver {
 
 	public static void main(String[] args) {

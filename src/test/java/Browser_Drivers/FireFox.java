@@ -1,4 +1,4 @@
-package Learning_Locators;
+package Browser_Drivers;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 
